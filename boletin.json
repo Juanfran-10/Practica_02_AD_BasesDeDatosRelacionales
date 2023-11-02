@@ -1,0 +1,65 @@
+[
+  {
+    "cCodAlu": "001",
+    "cCodCurso": "C002",
+    "nNumExam": 1,
+    "dFecExam": "nov. 7, 2023",
+    "nNotaExam": 5
+  },
+  {
+    "cCodAlu": "001",
+    "cCodCurso": "C002",
+    "nNumExam": 2,
+    "dFecExam": "nov. 22, 2023",
+    "nNotaExam": 8
+  },
+  {
+    "cCodAlu": "001",
+    "cCodCurso": "C002",
+    "nNumExam": 3,
+    "dFecExam": "nov. 14, 2023",
+    "nNotaExam": 10
+  },
+  {
+    "cCodAlu": "001",
+    "cCodCurso": "C002",
+    "nNumExam": 4,
+    "dFecExam": "nov. 30, 2023",
+    "nNotaExam": 9
+  },
+  {
+    "cCodAlu": "001",
+    "cCodCurso": "C002",
+    "nNumExam": 5,
+    "dFecExam": "nov. 14, 2023",
+    "nNotaExam": 4
+  },
+  {
+    "cCodAlu": "001",
+    "cCodCurso": "C002",
+    "nNumExam": 6,
+    "dFecExam": "nov. 15, 2023",
+    "nNotaExam": 10
+  },
+  {
+    "cCodAlu": "001",
+    "cCodCurso": "C002",
+    "nNumExam": 7,
+    "dFecExam": "nov. 23, 2023",
+    "nNotaExam": 10
+  },
+  {
+    "cCodAlu": "001",
+    "cCodCurso": "C002",
+    "nNumExam": 8,
+    "dFecExam": "nov. 22, 2023",
+    "nNotaExam": 10
+  },
+  {
+    "cCodAlu": "001",
+    "cCodCurso": "C002",
+    "nNumExam": 9,
+    "dFecExam": "nov. 18, 2023",
+    "nNotaExam": 10
+  }
+]
